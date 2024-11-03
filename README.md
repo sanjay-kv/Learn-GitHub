@@ -1,11 +1,13 @@
 # Learn-GitHub
-Small documentation on tips and tricks of GitHUB
+Small documentation on tips and tricks of GitHub
 ![2024-11-04_0-10-07](https://github.com/user-attachments/assets/34db8182-e864-49a5-b7cb-43702e87e657)
 
 
 Link to Explore:<br>
-https://skills.github.com/<br>
-https://recodehive.github.io/awesome-github-profiles/pages/githubbadge.html<br>
+<a href='https://skills.github.com'>GitHub Skills</a><br>
+<a href='https://recodehive.github.io/awesome-github-profiles/pages/githubbadge.html'>GitHub Achievements</a>
+<br>
+
 # Git and GitHub Learning Modules
 
 | Module               | Topic                                         | Video Link |
