@@ -1,5 +1,5 @@
 # Learn-GitHub
-Small documentation on tips and tricks of GitHUB
+Small documentation on tips and tricks of GitHub
 ![2024-11-04_0-10-07](https://github.com/user-attachments/assets/34db8182-e864-49a5-b7cb-43702e87e657)
 
 
