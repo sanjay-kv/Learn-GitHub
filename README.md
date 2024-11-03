@@ -4,8 +4,10 @@ Small documentation on tips and tricks of GitHub
 
 
 Link to Explore:<br>
-https://skills.github.com/<br>
-https://recodehive.github.io/awesome-github-profiles/pages/githubbadge.html<br>
+<a href='https://skills.github.com'>GitHub Skills</a><br>
+<a href='https://recodehive.github.io/awesome-github-profiles/pages/githubbadge.html'>GitHub Achievements</a>
+<br>
+
 # Git and GitHub Learning Modules
 
 | Module               | Topic                                         | Video Link |
