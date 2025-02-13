@@ -17,7 +17,7 @@ This is the all in one place for documentation help regarding the learn GitHub
 </div>
 
 
-I’m [Sanjay](https://github.com/sanjay-kv), your Senior Program Manager, and I'm thrilled to have you all here at learn GitHub ✨
+I’m [Sanjay](https://github.com/sanjay-kv), SDE turned to Data Engineer and Program Manager, and I'm thrilled to have you all here at learn GitHub ✨
  - **Remember: Collaboration First, Code 2nd**
 
 Small documentation on tips and tricks of GitHUB
