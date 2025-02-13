@@ -1,3 +1,4 @@
+
 # Learn-GitHub
 Small documentation on tips and tricks of GitHub
 ![2024-11-04_0-10-07](https://github.com/user-attachments/assets/34db8182-e864-49a5-b7cb-43702e87e657)
@@ -7,6 +8,45 @@ Link to Explore:<br>
 <a href='https://skills.github.com'>GitHub Skills</a><br>
 <a href='https://recodehive.github.io/awesome-github-profiles/pages/githubbadge.html'>GitHub Achievements</a>
 <br>
+
+
+
+<h1 align="center">Learn GitHub</h1>
+<div align="center">
+  
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<a href="https://github.com/sanjay-kv/Learn-GitHub/stargazers"><img src="https://img.shields.io/github/stars/sanjay-kv/Learn-GitHub" alt="Stars Badge"/></a>
+<a href="https://github.com/sanjay-kv/Learn-GitHub/network/members"><img src="https://img.shields.io/github/forks/sanjay-kv/Learn-GitHub" alt="Forks Badge"/></a>
+<a href="https://github.com/sanjay-kv/Learn-GitHub/issues"><img src="https://img.shields.io/github/issues/sanjay-kv/Learn-GitHub" alt="Issues Badge"/></a>
+<a href="https://github.com/sanjay-kv/Learn-GitHub/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/sanjay-kv/Learn-GitHub?color=2b9348"></a>
+<a href="https://github.com/sanjay-kv/Learn-GitHub/blob/master/LICENSE"><img src="https://img.shields.io/github/license/sanjay-kv/Learn-GitHub?color=2b9348" alt="License Badge"/></a>
+[![](https://visitcount.itsvg.in/api?id=learn&label=Profile%20Views&color=10&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+This is the all in one place for documentation help regarding the learn GitHub
+</div>
+
+
+I’m [Sanjay](https://github.com/sanjay-kv), SDE turned to Data Engineer and Program Manager, and I'm thrilled to have you all here at learn GitHub ✨
+ - **Remember: Collaboration First, Code 2nd**
+
+Small documentation on tips and tricks of GitHUB
+![2024-11-04_0-10-07](https://github.com/user-attachments/assets/34db8182-e864-49a5-b7cb-43702e87e657)
+
+
+| Link to Explore                                    | Description                                                                                     |
+|----------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| [Learn GitHub from scratch](https://skills.github.com/) | A comprehensive guide to learning GitHub from the basics.                                      |
+| [Find More about GitHub badges](https://recodehive.github.io/awesome-github-profiles/pages/githubbadge.html) | Resource to learn about GitHub badges and how to use them.                                     |
+| [Free GitHub Resume Review](https://topmate.io/sanjaykv/1135910/pay) | Get a free resume review on GitHub using code `recodehive`.                                    |
+| [GitHub Research Next](https://githubnext.com/)    | Explore new research projects and initiatives by GitHub.                                       |
+| [GitHub Spark Early Access](https://githubnext.com/projects/github-spark/) | Get early access to the GitHub Spark project.                                                  |
+| [GitHub Workspace Early Access](https://githubnext.com/projects/copilot-workspace/) | Early access to GitHub's Copilot Workspace project.                                            |
+| [Explore GitHub Models](https://github.com/marketplace/models) | Browse and explore various models available in the GitHub Marketplace.                         |
+| [Apply for GitHub Student Developer Pack](https://education.github.com/pack) | Access free tools and resources available to students on GitHub.                               |
+| [Do your 1st commit](https://github.com/sanjay-kv/Open-source-Practice) | Learn to do your first opensource Pull request.                               |
+
 
 # Git and GitHub Learning Modules
 
@@ -105,3 +145,19 @@ explain the step you did:
 ![19](https://github.com/user-attachments/assets/68471bc1-b517-4645-9e04-8e3e22f38d60)
 ![18](https://github.com/user-attachments/assets/26215367-2a9d-4096-9f9b-fbe3f69b65a7)
 ![38](https://github.com/user-attachments/assets/6aad4461-d9ad-432e-814d-c66a20b5f6ba)
+
+
+<div align="center">
+
+Happy reading and here’s to your career success! 🎉
+<br>
+### recode-hive 2024
+
+[Website](https://recodehive.com/) | [Instagram](https://www.instagram.com/sanjay.viswa_/) | [LinkedIn](https://www.linkedin.com/in/sanjay-k-v/) | [Twitter](https://x.com/sanjay_kv_) | [YouTube](https://www.youtube.com/@RecodeHive)<br>
+**🔔 Don’t miss a beat!** <br>
+  Subscribe to receive our newsletter directly in your inbox for the latest career insights & tailored to your journey.
+[![Subscribe to Our Newsletter](https://img.shields.io/badge/Subscribe%20to%20Our%20Newsletter-%F0%9F%93%A9-blue)](https://recodehive.substack.com/) <br>
+
+</div>
+
+
