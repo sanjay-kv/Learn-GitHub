@@ -1,4 +1,15 @@
 
+# Learn-GitHub
+Small documentation on tips and tricks of GitHub
+![2024-11-04_0-10-07](https://github.com/user-attachments/assets/34db8182-e864-49a5-b7cb-43702e87e657)
+
+
+Link to Explore:<br>
+<a href='https://skills.github.com'>GitHub Skills</a><br>
+<a href='https://recodehive.github.io/awesome-github-profiles/pages/githubbadge.html'>GitHub Achievements</a>
+<br>
+
+
 
 <h1 align="center">Learn GitHub</h1>
 <div align="center">
@@ -35,6 +46,7 @@ Small documentation on tips and tricks of GitHUB
 | [Explore GitHub Models](https://github.com/marketplace/models) | Browse and explore various models available in the GitHub Marketplace.                         |
 | [Apply for GitHub Student Developer Pack](https://education.github.com/pack) | Access free tools and resources available to students on GitHub.                               |
 | [Do your 1st commit](https://github.com/sanjay-kv/Open-source-Practice) | Learn to do your first opensource Pull request.                               |
+
 
 # Git and GitHub Learning Modules
 
