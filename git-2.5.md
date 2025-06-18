@@ -83,7 +83,7 @@ git reflog expire <branch> --expire=all  # cumbersome
 ### Now:
 git reflog delete <branch>  ✅  # intuitive and clear
 
-📚 Reference Performance Improvements
+### 📚 Reference Performance Improvements
 Git handles millions of references in large-scale repos. This release includes several low-level optimizations:
 
 git update-ref no longer checks if a refname is a valid SHA1/ID (it’s low-level; trust the caller).
