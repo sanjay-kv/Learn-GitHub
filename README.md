@@ -3,11 +3,43 @@
 Small documentation on tips and tricks of GitHub
 ![2024-11-04_0-10-07](https://github.com/user-attachments/assets/34db8182-e864-49a5-b7cb-43702e87e657)
 
+<div align="center" style="margin-bottom: 1em;">
+  
+<h2>Follow & Connect with Sanjay</h2>
+<p>
+  <a href="https://www.youtube.com/@RecodeHive" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.linkedin.com/in/sanjay-k-v/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/nomad_brains/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://x.com/sanjay_kv_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://github.com/sanjay-kv" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://in.pinterest.com/sanjay_k_v/" target="_blank"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/></a>
+  <a href="https://recodehive.com/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
+  <a href="https://www.tiktok.com/@nomadbrains" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+  <a href="http://sanjaykv.bsky.social/" target="_blank"><img src="https://img.shields.io/badge/Bluesky-0288D1?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/></a>
+  <a href="https://www.recodehive.com" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
+  <a href="https://www.facebook.com/sanjay.k.viswanathan/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://t.me/+nxT9ZRT7Yg5mYzhl" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://www.threads.net/@sanjay.viswa_" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/></a>
+  <a href="https://sanjaykv.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://topmate.io/sanjaykv" target="_blank"><img src="https://img.shields.io/badge/Topmate-1DA1F2?style=for-the-badge&logo=topmate&logoColor=white" alt="Topmate"/></a>
+  <a href="https://medium.com/@nomadbrains" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://developers.google.com/profile/u/sanjay-kv" target="_blank"><img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer"/></a>
+  <a href="https://g.dev/sanjay-kv" target="_blank"><img src="https://img.shields.io/badge/g.dev-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="g.dev"/></a>
+  <a href="https://discord.gg/Yxv9RA3r" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://github.com/recodehive" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Org-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Org"/></a>
+  <a href="https://recodehive.substack.com/" target="_blank"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/></a>
 
+</p>
+<p>
+  <a href="mailto:sanjay@recodehive.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+</div>
 Link to Explore:<br>
 <a href='https://skills.github.com'>GitHub Skills</a><br>
 <a href='https://recodehive.github.io/awesome-github-profiles/pages/githubbadge.html'>GitHub Achievements</a>
 <br>
+
 
 
 
@@ -50,44 +82,44 @@ Small documentation on tips and tricks of GitHUB
 
 # Git and GitHub Learning Modules
 
-| Module               | Topic                                         | Video Link |
-|----------------------|-----------------------------------------------|------------|
-| **Module 1**         | **Get Started with Git and GitHub**           |            |
-|                      | What is Git and GitHub                        | [Watch Video](https://youtu.be/bFHwtm6FQ4c) |
-|                      | How to start with GitHub                      | [Watch Video](https://youtu.be/GrTV59Y84S8) |
-|                      | Understanding the GitHub Flow                 | [Watch Video](https://youtu.be/jE8nqWSbUQs) |
-| **Module 2**         | **How to Make Your First Commit**             |            |
-|                      | How to create a GitHub repository             | [Watch Video](https://youtu.be/XWjx-RjmhRM) |
-|                      | Create repository using command line          | [Watch Video](https://youtu.be/DO38CZcw5pg) |
-|                      | How to do your first open source              | [Watch Video](https://youtu.be/R7NReLBCT_8) |
-|                      | How to create open source commit via CLI      | [Watch Video](https://youtu.be/QlTrHXmr-JI) |
-| **Module 3**         | **Customize Your GitHub Profile**             |            |
-|                      | Make custom GitHub README page                | [Watch Video](https://youtu.be/3dnQ2lDNeGI) |
-|                      | How to customize GitHub profiles              | [Watch Video](https://youtu.be/ILccFNnQr9s) |
-| **Module 4**         | **How to Get GitHub Achievement Badges**      |            |
-|                      | How to get GitHub achievements                | [Watch Video](https://youtu.be/sbyXpflAXkQ) |
-|                      | How to get Pull Shark badge on GitHub         | [Watch Video](https://youtu.be/7uKMWBFN2jQ) |
-|                      | How to get Galaxy Brain badge on GitHub       | [Watch Video](https://youtu.be/v2Pai1TY_Lg) |
-|                      | How to get Starstruck badge on GitHub         | [Watch Video](https://youtu.be/P-P3L7YzlyE) |
-|                      | How to get Quick Draw badge on GitHub         | [Watch Video](https://youtu.be/BNKSlT8jLQ0) |
-|                      | How to get YOLO badge on GitHub               | [Watch Video](https://youtu.be/GnHNScuGKrg) |
-|                      | How to get Pair badge on GitHub               | [Watch Video](https://youtu.be/ZoNO_e8PjiM) |
-| **Module 5**         | **How to Activate Sponsorship on GitHub**     |            |
-|                      | How to sponsor developers on GitHub           | [Watch Video](https://youtu.be/krgKPvWNPLQ) |
-|                      | How to get GitHub Sponsor                     | [Watch Video](https://youtu.be/RSR5E1bhu5Y) |
-|                      | How to set up GitHub Sponsor                  | [Watch Video](https://youtu.be/z579SrLdk2I) |
-| **Module 6**         | **Troubleshoot on Account Suspension**        |            |
-|                      | GitHub account suspended                      | [Watch Video](https://youtu.be/TvQ1OYRJUe0) |
-|                      | How to get Sponsorship Badge                  | [Watch Video](https://youtu.be/dcdpkD7lYDg) |
-|                      | Understanding GitHub as a Dev Product         | [Watch Video](https://youtu.be/SLdOYby72LQ) |
-|                      | How to apply for Student Developer Pack       | [Watch Video](https://youtu.be/knr5gBv-c9c) |
-|                      | Hands-on GitHub Copilot: AI Assistant         | [Watch Video](https://youtu.be/4JX-SIkM3uk) |
-|                      | Understanding GitHub Codespace                | [Watch Video](https://youtu.be/akz9xHL1RQo) |
-|                      | How to delete a project repository            | [Watch Video](https://youtu.be/oyi86CljSk4) |
-|                      | How to manage a project on GitHub             | [Watch Video](https://youtu.be/7BL6eInh7qo) |
-|                      | Inner source and open source                  | [Watch Video](https://youtu.be/V2nvZYe_q7g) |
-|                      | GitHub Security                               | [Watch Video](https://youtu.be/DmYe2itxSQA) |
-|                      | GitHub Administration                         | [Watch Video](https://youtu.be/xdjZ0HXADjE) |
+| Module               | Topic                                         | Video Link | YouTube Thumbnail |
+|----------------------|-----------------------------------------------|------------|-------------------|
+| **Module 1**         | **Get Started with Git and GitHub**           |            |                   |
+|                      | What is Git and GitHub                        | [Watch Video](https://youtu.be/bFHwtm6FQ4c) | [![What is Git and GitHub](https://img.youtube.com/vi/bFHwtm6FQ4c/0.jpg)](https://youtu.be/bFHwtm6FQ4c) |
+|                      | How to start with GitHub                      | [Watch Video](https://youtu.be/GrTV59Y84S8) | [![How to start with GitHub](https://img.youtube.com/vi/GrTV59Y84S8/0.jpg)](https://youtu.be/GrTV59Y84S8) |
+|                      | Understanding the GitHub Flow                 | [Watch Video](https://youtu.be/jE8nqWSbUQs) | [![Understanding the GitHub Flow](https://img.youtube.com/vi/jE8nqWSbUQs/0.jpg)](https://youtu.be/jE8nqWSbUQs) |
+| **Module 2**         | **How to Make Your First Commit**             |            |                   |
+|                      | How to create a GitHub repository             | [Watch Video](https://youtu.be/XWjx-RjmhRM) | [![How to create a GitHub repository](https://img.youtube.com/vi/XWjx-RjmhRM/0.jpg)](https://youtu.be/XWjx-RjmhRM) |
+|                      | Create repository using command line          | [Watch Video](https://youtu.be/DO38CZcw5pg) | [![Create repository using command line](https://img.youtube.com/vi/DO38CZcw5pg/0.jpg)](https://youtu.be/DO38CZcw5pg) |
+|                      | How to do your first open source              | [Watch Video](https://youtu.be/R7NReLBCT_8) | [![How to do your first open source](https://img.youtube.com/vi/R7NReLBCT_8/0.jpg)](https://youtu.be/R7NReLBCT_8) |
+|                      | How to create open source commit via CLI      | [Watch Video](https://youtu.be/QlTrHXmr-JI) | [![How to create open source commit via CLI](https://img.youtube.com/vi/QlTrHXmr-JI/0.jpg)](https://youtu.be/QlTrHXmr-JI) |
+| **Module 3**         | **Customize Your GitHub Profile**             |            |                   |
+|                      | Make custom GitHub README page                | [Watch Video](https://youtu.be/3dnQ2lDNeGI) | [![Make custom GitHub README page](https://img.youtube.com/vi/3dnQ2lDNeGI/0.jpg)](https://youtu.be/3dnQ2lDNeGI) |
+|                      | How to customize GitHub profiles              | [Watch Video](https://youtu.be/ILccFNnQr9s) | [![How to customize GitHub profiles](https://img.youtube.com/vi/ILccFNnQr9s/0.jpg)](https://youtu.be/ILccFNnQr9s) |
+| **Module 4**         | **How to Get GitHub Achievement Badges**      |            |                   |
+|                      | How to get GitHub achievements                | [Watch Video](https://youtu.be/sbyXpflAXkQ) | [![How to get GitHub achievements](https://img.youtube.com/vi/sbyXpflAXkQ/0.jpg)](https://youtu.be/sbyXpflAXkQ) |
+|                      | How to get Pull Shark badge on GitHub         | [Watch Video](https://youtu.be/7uKMWBFN2jQ) | [![How to get Pull Shark badge on GitHub](https://img.youtube.com/vi/7uKMWBFN2jQ/0.jpg)](https://youtu.be/7uKMWBFN2jQ) |
+|                      | How to get Galaxy Brain badge on GitHub       | [Watch Video](https://youtu.be/v2Pai1TY_Lg) | [![How to get Galaxy Brain badge on GitHub](https://img.youtube.com/vi/v2Pai1TY_Lg/0.jpg)](https://youtu.be/v2Pai1TY_Lg) |
+|                      | How to get Starstruck badge on GitHub         | [Watch Video](https://youtu.be/P-P3L7YzlyE) | [![How to get Starstruck badge on GitHub](https://img.youtube.com/vi/P-P3L7YzlyE/0.jpg)](https://youtu.be/P-P3L7YzlyE) |
+|                      | How to get Quick Draw badge on GitHub         | [Watch Video](https://youtu.be/BNKSlT8jLQ0) | [![How to get Quick Draw badge on GitHub](https://img.youtube.com/vi/BNKSlT8jLQ0/0.jpg)](https://youtu.be/BNKSlT8jLQ0) |
+|                      | How to get YOLO badge on GitHub               | [Watch Video](https://youtu.be/GnHNScuGKrg) | [![How to get YOLO badge on GitHub](https://img.youtube.com/vi/GnHNScuGKrg/0.jpg)](https://youtu.be/GnHNScuGKrg) |
+|                      | How to get Pair badge on GitHub               | [Watch Video](https://youtu.be/ZoNO_e8PjiM) | [![How to get Pair badge on GitHub](https://img.youtube.com/vi/ZoNO_e8PjiM/0.jpg)](https://youtu.be/ZoNO_e8PjiM) |
+| **Module 5**         | **How to Activate Sponsorship on GitHub**     |            |                   |
+|                      | How to sponsor developers on GitHub           | [Watch Video](https://youtu.be/krgKPvWNPLQ) | [![How to sponsor developers on GitHub](https://img.youtube.com/vi/krgKPvWNPLQ/0.jpg)](https://youtu.be/krgKPvWNPLQ) |
+|                      | How to get GitHub Sponsor                     | [Watch Video](https://youtu.be/RSR5E1bhu5Y) | [![How to get GitHub Sponsor](https://img.youtube.com/vi/RSR5E1bhu5Y/0.jpg)](https://youtu.be/RSR5E1bhu5Y) |
+|                      | How to set up GitHub Sponsor                  | [Watch Video](https://youtu.be/z579SrLdk2I) | [![How to set up GitHub Sponsor](https://img.youtube.com/vi/z579SrLdk2I/0.jpg)](https://youtu.be/z579SrLdk2I) |
+| **Module 6**         | **Troubleshoot on Account Suspension**        |            |                   |
+|                      | GitHub account suspended                      | [Watch Video](https://youtu.be/TvQ1OYRJUe0) | [![GitHub account suspended](https://img.youtube.com/vi/TvQ1OYRJUe0/0.jpg)](https://youtu.be/TvQ1OYRJUe0) |
+|                      | How to get Sponsorship Badge                  | [Watch Video](https://youtu.be/dcdpkD7lYDg) | [![How to get Sponsorship Badge](https://img.youtube.com/vi/dcdpkD7lYDg/0.jpg)](https://youtu.be/dcdpkD7lYDg) |
+|                      | Understanding GitHub as a Dev Product         | [Watch Video](https://youtu.be/SLdOYby72LQ) | [![Understanding GitHub as a Dev Product](https://img.youtube.com/vi/SLdOYby72LQ/0.jpg)](https://youtu.be/SLdOYby72LQ) |
+|                      | How to apply for Student Developer Pack       | [Watch Video](https://youtu.be/knr5gBv-c9c) | [![How to apply for Student Developer Pack](https://img.youtube.com/vi/knr5gBv-c9c/0.jpg)](https://youtu.be/knr5gBv-c9c) |
+|                      | Hands-on GitHub Copilot: AI Assistant         | [Watch Video](https://youtu.be/4JX-SIkM3uk) | [![Hands-on GitHub Copilot: AI Assistant](https://img.youtube.com/vi/4JX-SIkM3uk/0.jpg)](https://youtu.be/4JX-SIkM3uk) |
+|                      | Understanding GitHub Codespace                | [Watch Video](https://youtu.be/akz9xHL1RQo) | [![Understanding GitHub Codespace](https://img.youtube.com/vi/akz9xHL1RQo/0.jpg)](https://youtu.be/akz9xHL1RQo) |
+|                      | How to delete a project repository            | [Watch Video](https://youtu.be/oyi86CljSk4) | [![How to delete a project repository](https://img.youtube.com/vi/oyi86CljSk4/0.jpg)](https://youtu.be/oyi86CljSk4) |
+|                      | How to manage a project on GitHub             | [Watch Video](https://youtu.be/7BL6eInh7qo) | [![How to manage a project on GitHub](https://img.youtube.com/vi/7BL6eInh7qo/0.jpg)](https://youtu.be/7BL6eInh7qo) |
+|                      | Inner source and open source                  | [Watch Video](https://youtu.be/V2nvZYe_q7g) | [![Inner source and open source](https://img.youtube.com/vi/V2nvZYe_q7g/0.jpg)](https://youtu.be/V2nvZYe_q7g) |
+|                      | GitHub Security                               | [Watch Video](https://youtu.be/DmYe2itxSQA) | [![GitHub Security](https://img.youtube.com/vi/DmYe2itxSQA/0.jpg)](https://youtu.be/DmYe2itxSQA) |
+|                      | GitHub Administration                         | [Watch Video](https://youtu.be/xdjZ0HXADjE) | [![GitHub Administration](https://img.youtube.com/vi/xdjZ0HXADjE/0.jpg)](https://youtu.be/xdjZ0HXADjE) |
 
 ## Some Standards while raising PR
 explain the issue
