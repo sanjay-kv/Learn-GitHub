@@ -181,7 +181,7 @@ explain the step you did:
 
 <div align="center">
 
-Happy reading and here’s to your career success! 🎉
+Happy reading and here’s to your career success! 
 <br>
 ### recode-hive 2024
 
